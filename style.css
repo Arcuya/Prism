@@ -24,7 +24,7 @@
 		width: 100%
 	}
 	#banner #message {
-        background: rgba(33, 33, 33, .05);
+        
 		height: 100% !important;
 		width: inherit;    
 		display: flex;
